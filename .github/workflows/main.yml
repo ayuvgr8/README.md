@@ -1,0 +1,22 @@
+name: DevCard
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.2
+        with:
+          devcard_id: ${{ secrets.798db39e7b604f2fb43ed0c74738e632 }}
+# <a href="https://app.daily.dev/iamayuv"><img src="https://api.daily.dev/devcards/.png?r=01n" width="400" alt="Ayush Verma's Dev Card"/></a>
