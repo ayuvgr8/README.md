@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/iamayuv"><img src="https://api.daily.dev/devcards/798db39e7b604f2fb43ed0c74738e632.png?r=m66" width="400" alt="Ayush Verma's Dev Card"/></a>
+
 # README.md
 My Personal Repository 
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
