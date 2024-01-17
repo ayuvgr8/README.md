@@ -1,9 +1,11 @@
-<a href="https://app.daily.dev/iamayuv"><img src="https://api.daily.dev/devcards/798db39e7b604f2fb43ed0c74738e632.png?r=m66" width="400" alt="Ayush Verma's Dev Card"/></a>
+
 
 # README.md
 My Personal Repository 
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">👋 Hello World! I'm Ayush Verma, a passionate Software Engineer with a deep love for crafting clean and efficient code. Based in India, I'm on a mission to blend creativity with technology. 👨‍💻 🚀 As a Cloud Enthusiast, I thrive on leveraging cloud platforms to build scalable and resilient solutions. Whether it's architecting robust systems or optimizing for performance, I love the challenge of pushing the boundaries of what's possible in the cloud. 💡 Tech Geek at heart, I'm always exploring the latest trends and innovations in the tech world. From frontend development using [your favorite frameworks] to diving into cloud-native architectures, I believe in continuous learning and staying at the forefront of technology. 🌐 Currently, I'm [briefly mention what you're working on or your main focus]. Check out my repositories to explore my projects and contributions. Let's connect and collaborate on the exciting journey of building the future of tech together! 📫 Reach me at [your email] or connect with me on Twitter @iamayuv – I'm always open to discussions, collaborations, and sharing knowledge. Happy coding! 🚀</h3>
+
+<a href="https://app.daily.dev/iamayuv"><img src="https://api.daily.dev/devcards/798db39e7b604f2fb43ed0c74738e632.png?r=m66" width="400" alt="Ayush Verma's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuvgr8&label=Profile%20views&color=0e75b6&style=flat" alt="ayuvgr8" /> </p>
 
